@@ -89,5 +89,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=EstebanXD539&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=--Esteban--9&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EstebanXD539&theme=tokyonight" alt="Top Languages" />
 </div>
