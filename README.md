@@ -79,8 +79,8 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[FitFeast](https://github.com/EstebanXD539/Proyecto_FitFeast/tree/develop)** | obile fitness tracking app designed to log workouts, monitor routines, and track physical progress. | `Flutter` `Dart` `Javascript` `Nodes.js` `Express.js` |
-| **[EcoSavers](https://github.com/Zerritug/Sena-EcoSavers) | Sena-EcoSavers is a web platform designed to promote sustainable habits and environmental awareness.
+| [FitFeast](https://github.com/EstebanXD539/Proyecto_FitFeast/tree/develop)** | obile fitness tracking app designed to log workouts, monitor routines, and track physical progress. | `Flutter` `Dart` `Javascript` `Nodes.js` `Express.js` |
+| [EcoSavers](https://github.com/Zerritug/Sena-EcoSavers) | Sena-EcoSavers is a web platform designed to promote sustainable habits and environmental awareness.
 Users can track eco-friendly activities, save resources, and participate in community challenges. | `Java` `Typescript` `HTML` `SCSS` `Springboot` `Angular` `Docker` |
 
 ---
