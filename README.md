@@ -79,15 +79,14 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [FitFeast](https://github.com/EstebanXD539/Proyecto_FitFeast/tree/develop)** | obile fitness tracking app designed to log workouts, monitor routines, and track physical progress. | `Flutter` `Dart` `Javascript` `Nodes.js` `Express.js` |
-| [EcoSavers](https://github.com/Zerritug/Sena-EcoSavers) | Sena-EcoSavers is a web platform designed to promote sustainable habits and environmental awareness.
-Users can track eco-friendly activities, save resources, and participate in community challenges. | `Java` `Typescript` `HTML` `SCSS` `Springboot` `Angular` `Docker` |
+| **[FitFeast](URL-DE-TU-REPO-FITFEAST)** | Mobile fitness tracking app designed to log workouts, monitor routines, and track physical progress. | `Flutter` `Dart` `JavaScript` `Node.js` `Express.js` |
+| **[EcoSavers](URL-DE-TU-REPO-ECOSAVERS)** | Web platform designed to promote sustainable habits and environmental awareness, allowing users to track eco-friendly activities, save resources, and join community challenges. | `Java` `TypeScript` `HTML` `SCSS` `Spring Boot` `Angular` `Docker` |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstebanXD539&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanXD539&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TU-USUARIO-DE-GITHUB&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
 </div>
