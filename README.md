@@ -87,6 +87,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=EstebanXD539&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EstebanXD539&theme=tokyonight" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EstebanXD539&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EstebanXD539&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
 </div>
