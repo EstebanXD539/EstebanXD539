@@ -87,6 +87,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TU-USUARIO-DE-GITHUB&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=TU-USUARIO-DE-GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO-DE-GITHUB&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
