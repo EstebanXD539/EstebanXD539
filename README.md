@@ -87,7 +87,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TU-USUARIO-DE-GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=EstebanXD539&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO-DE-GITHUB&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EstebanXD539&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
